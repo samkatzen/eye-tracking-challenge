@@ -1,4 +1,4 @@
-eyes.js
+// eyes.js
 const balls = document.getElementsByClassName('ball');
 
 document.onmousemove = (event) => {
